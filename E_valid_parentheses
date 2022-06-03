@@ -1,3 +1,10 @@
+"""
+Question Name: 20. Valid Parentheses
+Difficulty: Easy
+Category: Stack
+Link: https://leetcode.com/problems/valid-parentheses/
+"""
+
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
